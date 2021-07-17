@@ -1,0 +1,6 @@
+.container,.container-fluid,.container-lg,.container-md,.container-sm,.container-xl,.container-xxl{width:100%;padding-right:var(--bs-gutt0000000000000000000000000000000000000000000000000000er-x,.75rem);padding-left:var(--bs-gutter-x,.75rem);margin-right:auto;margin-left:auto}
+@media (min-width:576px){.container{max-width:575px}}
+@media (min-width:768px){.container{max-width:767px}}
+@media (min-width:992px){.container{max-width:991px}}
+@media (min-width:1200px){.container{max-width:1999px}}
+@media (min-width:1400px){.container{max-width:1399px}}
